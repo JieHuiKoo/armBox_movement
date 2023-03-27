@@ -1,0 +1,5 @@
+int32 armbox_enum # control which part, 1 for arm, 0 for trapdoor
+bool open # 1 for open, 0 for close
+---
+bool success
+---
